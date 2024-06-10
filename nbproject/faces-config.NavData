@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="citizenlogin.jsp" x="150" y="300" zoom="true"/>
+        <Node id="checkinformation.jsp" x="900" y="300" zoom="true"/>
+        <Node id="welcomeJSF_1.jsp" x="400" y="150" zoom="true"/>
+        <Node id="roadshighways.jsp" x="631" y="169" zoom="true"/>
+        <Node id="Registration_Citizen.jsp" x="608" y="73" zoom="true"/>
+        <Node id="newjsp.jsp" x="150" y="600" zoom="true"/>
+        <Node id="try.jsp" x="46" y="73" zoom="true"/>
+        <Node id="personalfullinformation.jsp" x="469" y="366" zoom="true"/>
+        <Node id="immigrationoffice.jsp" x="900" y="150" zoom="true"/>
+        <Node id="welcomeJSF.jsp" x="376" y="191" zoom="true"/>
+        <Node id="RegistrationShow.jsp" x="650" y="150" zoom="true"/>
+        <Node id="Access.jsp" x="379" y="66" zoom="true"/>
+        <Node id="passportoffice.jsp" x="150" y="450" zoom="true"/>
+        <Node id="policedept.jsp" x="400" y="300" zoom="true"/>
+        <Node id="AdminLogin.jsp" x="150" y="150" zoom="true"/>
+        <Node id="citizeninformationpage.jsp" x="739" y="374" zoom="true"/>
+        <Node id="table.jsp" x="614" y="456" zoom="true"/>
+        <Node id="deleteuser.jsp" x="401" y="410" zoom="true"/>
+        <Node id="upndcity.jsp" x="650" y="300" zoom="true"/>
+        <Node id="newjsf.jsp" x="159" y="357" zoom="true"/>
+        <Node id="newinf.jsp" x="53" y="211" zoom="true"/>
+        <Node id="update.jsp" x="400" y="450" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
